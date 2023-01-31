@@ -20,8 +20,10 @@
 ![截屏2023-01-31 09 03 31](https://user-images.githubusercontent.com/110269012/215634107-3094b544-ad10-4240-8963-f9636815c286.png)
 
 ## 联系我们
-Twitter [Twitter](https://twitter.com/moelin-mtf)
+Twitter [Twitter](https://twitter.com/forgetmoelin)
 
 GitHub [GitHub issues](https://github.com/Moelin-MtF/Moelin-Mtf.github.io/issues/new/choose)
 
-邮件 <moelin.mtf@gmail.com>
+邮件 <moelin.mtf#gmail.com>
+<woshicylink#outlook.com>
+请将“#”替换为“@”
